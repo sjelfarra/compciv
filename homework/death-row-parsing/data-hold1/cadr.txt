@@ -1,4 +1,4 @@
-                                   CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                                  Printed 01/05/2015
+                                   CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                                  Printed 02/06/2015
                                                  DIVISION OF ADULT OPERATIONS
                                                              Death Row Tracking System
                                                          Condemned Inmate List (Secure)
@@ -34,7 +34,7 @@ ARMSTRONG            CRAIG                      Living        BLA           01/2
 ASHMUS               TROY                       Living        WHI           07/30/1986      07/25/1986      05/19/1984     Sacramento          Affirmed
 
                                                                         Page: 1
-                         CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 01/05/2015
+                         CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 02/06/2015
                                        DIVISION OF ADULT OPERATIONS
                                                 Death Row Tracking System
                                             Condemned Inmate List (Secure)
@@ -70,7 +70,7 @@ BELL        STEVEN                Living         BLA           03/10/1994      0
 BELL        CIMARRON              Living         BLA           08/17/2011      08/09/2011      11/11/2003     Los Angeles         No Action
 
                                                            Page: 2
-                            CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                              Printed 01/05/2015
+                            CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                              Printed 02/06/2015
                                           DIVISION OF ADULT OPERATIONS
                                                    Death Row Tracking System
                                                Condemned Inmate List (Secure)
@@ -106,7 +106,7 @@ BRADY         ROGER                  Living         WHI           03/24/1999    
 BRAMIT        MICHAEL                Living         BLA           09/15/1997      09/08/1997      06/14/1994     Riverside          No Action
 
                                                               Page: 3
-                          CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 01/05/2015
+                          CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 02/06/2015
                                         DIVISION OF ADULT OPERATIONS
                                                  Death Row Tracking System
                                              Condemned Inmate List (Secure)
@@ -142,7 +142,7 @@ CAMACHO      ADRIAN                Living         HIS           02/10/2006      
 CANALES      OSMAN                 Living         HIS           01/14/2013      01/04/2013      09/26/2007     Los Angeles         No Action
 
                                                             Page: 4
-                           CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 01/05/2015
+                           CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 02/06/2015
                                          DIVISION OF ADULT OPERATIONS
                                                   Death Row Tracking System
                                               Condemned Inmate List (Secure)
@@ -156,8 +156,8 @@ CARDENAS     REFUGIO                Living         HIS           04/27/2007     
 CAREY        DEWAYNE                Living         BLA           12/23/1996      12/16/1996      04/19/1995     Los Angeles         Affirmed
 CARO         FERNANDO               Living         HIS           01/05/1982      01/05/1982      08/20/1980     Santa Clara         Reversed/a
 CARO         SOCORRO                Living         HIS           04/09/2002      04/05/2002      11/22/1999     Ventura             No Action
-CARPENTER    DAVID                  Living         WHI           11/26/1984      06/27/1988      10/15/1980     San Diego           Affirmed
-                                                                                 11/16/1984      03/29/1981     Los Angeles         Affirmed
+CARPENTER    DAVID                  Living         WHI           11/26/1984      11/16/1984      03/29/1981     Los Angeles         Affirmed
+                                                                                 06/27/1988      10/15/1980     San Diego           Affirmed
 CARRASCO     ROBERT                 Living         HIS           03/03/1999      02/05/1999      12/16/1994     Los Angeles         No Action
 CARRERA      CONSTANTINO            Living         HIS           10/18/1983      10/07/1983      04/07/1982     Kern                Affirmed
 CARRINGTON   CELESTE                Living         BLA           12/02/1994      11/23/1994      01/26/1992     San Mateo           No Action
@@ -174,11 +174,11 @@ CHAMPION     STEVEN                 Living         BLA           12/20/1982     
 CHARLES      EDWARD                 Living         WHI           01/25/1999      01/15/1999      11/06/1994     Orange              No Action
 CHATMAN      ERIK                   Living         BLA           04/14/1993      04/09/1993      10/07/1987     Santa Clara         Affirmed
 CHAVEZ       JUAN                   Living         HIS           04/14/2008      03/28/2008      06/06/2004     Los Angeles         No Action
-CHEATHAM     STEVEN                 Living         BLA           05/06/2009      04/24/2009      07/01/2001     Los Angeles         No Action
-                                                                                                 12/20/1998     Los Angeles         No Action
+CHEATHAM     STEVEN                 Living         BLA           05/06/2009      04/24/2009      12/20/1998     Los Angeles         No Action
+                                                                                                 07/01/2001     Los Angeles         No Action
 
                                                              Page: 5
-                          CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 01/05/2015
+                          CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 02/06/2015
                                         DIVISION OF ADULT OPERATIONS
                                                  Death Row Tracking System
                                              Condemned Inmate List (Secure)
@@ -214,7 +214,7 @@ CORDOVA      JOSEPH                Living         HIS           05/22/2007      
 CORNWELL     GLEN                  Living         BLA           05/02/1995      04/21/1995      06/01/1993     Sacramento          Affirmed
 
                                                             Page: 6
-                           CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 01/05/2015
+                           CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 02/06/2015
                                          DIVISION OF ADULT OPERATIONS
                                                   Death Row Tracking System
                                               Condemned Inmate List (Secure)
@@ -250,7 +250,7 @@ DEERE         RONALD                Living         OTH           11/23/1982     
 DEHOYOS       RICHARD               Living         HIS           09/02/1993      08/27/1993      03/20/1989     Orange              No Action
 
                                                              Page: 7
-                           CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 01/05/2015
+                           CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 02/06/2015
                                          DIVISION OF ADULT OPERATIONS
                                                   Death Row Tracking System
                                               Condemned Inmate List (Secure)
@@ -286,7 +286,7 @@ ELLIOTT       MARCHAND              Living         BLA           06/10/1992     
 ENRACA        SONNY                 Living         OTH           07/29/1999      07/23/1999      11/19/1994     Riverside           No Action
 
                                                              Page: 8
-                          CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 01/05/2015
+                          CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 02/06/2015
                                         DIVISION OF ADULT OPERATIONS
                                                  Death Row Tracking System
                                              Condemned Inmate List (Secure)
@@ -322,7 +322,7 @@ FOSTER      RICHARD                Living         WHI           12/30/1996      
 FOWLER      RICKY                  Living         WHI           02/05/2013      01/25/2013      10/25/2003     San Bernardino      No Action
 
                                                             Page: 9
-                             CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 01/05/2015
+                             CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 02/06/2015
                                            DIVISION OF ADULT OPERATIONS
                                                     Death Row Tracking System
                                                 Condemned Inmate List (Secure)
@@ -336,6 +336,7 @@ FRIEND         JACK                   Living         WHI           06/19/1992   
 FRYE           JERRY                  Living         WHI           09/14/1988      09/12/1988      05/14/1985     Amador              Affirmed
 FUDGE          KEITH                  Living         BLA           12/21/1987      12/11/1987      10/12/1984     Los Angeles         Affirmed
 FUIAVA         FREDDIE                Living         OTH           08/28/1996      08/19/1996      05/12/1995     Los Angeles         Affirmed
+FULLER         ROBERT                 Living         WHI           01/15/2015      01/14/2015      08/10/2009     Kern                No Action
 GALVAN         ROBERT                 Living         HIS           05/15/2013      05/15/2013      09/16/2010     Kings               No Action
 GAMACHE        RICHARD                Living         WHI           04/12/1996      04/02/1996      12/04/1992     San Bernardino      No Action
 GARCIA         RANDY                  Living         HIS           04/05/1995      03/23/1995      05/08/1993     Los Angeles         No Action
@@ -355,24 +356,24 @@ GONZALES       FRANK                  Living         HIS           05/21/2008   
 GONZALEZ       JESSE                  Living         HIS           08/05/1981      07/28/1981      05/29/1979     Los Angeles         Affirmed
 GORDON         PATRICK                Living         WHI           05/13/1985      05/03/1985      12/18/1983     Sacramento          Affirmed
 GOVIN          VIRENDRA               Living         OTH           01/05/2005      12/21/2004      05/04/2002     Los Angeles         No Action
-GOVIN          PRAVIN                 Living         OTH           09/19/2005      09/08/2005      05/04/2005     Los Angeles         No Action
 
                                                                Page: 10
-                         CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                             Printed 01/05/2015
+                         CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                             Printed 02/06/2015
                                        DIVISION OF ADULT OPERATIONS
                                                 Death Row Tracking System
                                             Condemned Inmate List (Secure)
 
 LastName    First Name            Status Code    Ethnic Code   Received Date   Sentence Date   Offense Date   Trial County      Court Action
 
+GOVIN       PRAVIN                Living         OTH           09/19/2005      09/08/2005      05/04/2005     Los Angeles       No Action
 GRAHAM      JAWAUN                Living         BLA           01/12/2012      01/13/2012      01/22/2066     Riverside         No Action
 GREEN       EARL                  Living         BLA           07/02/2012      06/25/2012      11/07/2010     Riverside         No Action
 GRIFFIN     DONALD                Living         WHI           12/04/1980      12/03/1980      12/13/1979     Fresno            Affirmed
 GRIMES      GARY                  Living         WHI           02/01/1999      01/27/1999      10/18/1995     Shasta            No Action
 GUERRA      JOSE                  Living         OTH           12/06/1993      11/22/1993      10/25/1990     Los Angeles       Affirmed
-GUERRERO    JOSE                  Living         HIS           06/26/2009      06/23/2009      07/15/1998     Madera            No Action
+GUERRERO    JOSE                  Living         HIS           06/26/2009      06/23/2009      04/29/1995     Madera            No Action
+                                                                                               07/15/1998     Madera            No Action
                                                                                                11/28/1995     Madera            No Action
-                                                                                               04/29/1995     Madera            No Action
                                                                                                11/22/1998     Madera            No Action
 GUTIERREZ   ALFRED                Living         HIS           08/19/1998      08/10/1998      10/11/1996     Los Angeles       No Action
 HAJEK       STEPHEN               Living         WHI           10/25/1995      10/18/1995      01/18/1995     Santa Clara       Affirmed
@@ -391,16 +392,16 @@ HART        WILLIAM               Living         WHI           06/01/1988      0
 HARTSCH     CISCO                 Living         HIS           11/19/1998      11/13/1998      06/15/1995     Riverside         No Action
 HAWKINS     JEFFREY               Living         WHI           02/09/1990      01/31/1990      03/04/1987     Sacramento        Affirmed
 HAWTHORNE   ANDERSON              Living         BLA           02/26/1986      02/18/1986      12/18/1982     Los Angeles       Affirmed
-HAWTHORNE   CARLOS                Living         BLA           09/15/1997      09/05/1997      08/25/1996     Los Angeles       No Action
 
                                                            Page: 11
-                            CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 01/05/2015
+                            CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 02/06/2015
                                           DIVISION OF ADULT OPERATIONS
                                                    Death Row Tracking System
                                                Condemned Inmate List (Secure)
 
 LastName      First Name             Status Code    Ethnic Code   Received Date   Sentence Date   Offense Date   Trial County        Court Action
 
+HAWTHORNE     CARLOS                 Living         BLA           09/15/1997      09/05/1997      08/25/1996     Los Angeles         No Action
 HAYES         ROYAL                  Living         WHI           08/18/1986      08/08/1986      12/29/1981     Stanislaus          Affirmed
 HAYES JR.     BLUFFORD               Living         BLA           01/22/1982      01/22/1982      01/01/1980     San Joaquin         Affirmed
 HAZLETT       LARRY                  Living         BLA           07/14/2004      07/14/2004      10/24/1978     Kern                No Action
@@ -427,16 +428,16 @@ HOUSTON       ERIC                   Living         WHI           09/24/1993    
 HOVARTER      JACKIE                 Living         WHI           12/11/1990      11/30/1990      08/24/1984     Humboldt            Affirmed
 HOWARD        ALPHONSO               Living         BLA           10/28/1992      10/20/1992      04/02/1988     Los Angeles         Affirmed
 HOWARD        DEMETRIUS              Living         BLA           12/19/1995      12/07/1995      12/05/1992     San Bernardino      No Action
-HOYOS         JAIME                  Living         HIS           07/20/1994      07/11/1994      05/26/1992     San Diego           Affirmed
 
                                                               Page: 12
-                          CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 01/05/2015
+                          CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 02/06/2015
                                         DIVISION OF ADULT OPERATIONS
                                                  Death Row Tracking System
                                              Condemned Inmate List (Secure)
 
 LastName    First Name             Status Code    Ethnic Code   Received Date   Sentence Date   Offense Date   Trial County        Court Action
 
+HOYOS       JAIME                  Living         HIS           07/20/1994      07/11/1994      05/26/1992     San Diego           Affirmed
 HOYT        RYAN                   Living         WHI           03/14/2003      02/07/2003      08/06/2000     Santa Barbara       No Action
 HRONIS      JEFFERY                Living         WHI           12/29/2000      12/19/2000      12/22/1985     Sacramento          No Action
 HUGGINS     MICHAEL                Living         BLA           12/17/1993      12/17/1993      03/08/1986     Alameda             Affirmed
@@ -463,18 +464,18 @@ JOHNSON     JOE                    Living         BLA           06/09/1981      
 JOHNSON     LAVERNE                Living         OTH           04/01/1988      04/01/1988      01/15/1986     San Mateo           Affirmed
 JOHNSON     MICHAEL                Living         WHI           05/06/1998      04/27/1998      07/17/1996     Ventura             No Action
 JOHNSON     WILLIE                 Living         BLA           08/05/1987      08/05/1987      07/01/1986     Contra Costa        Affirmed
-JOHNSON     LUMORD                 Living         BLA           04/15/2002      04/08/2002      06/25/1994     Riverside           No Action
 
                                                             Page: 13
-                        CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 01/05/2015
+                        CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 02/06/2015
                                       DIVISION OF ADULT OPERATIONS
                                                Death Row Tracking System
                                            Condemned Inmate List (Secure)
 
 LastName   First Name            Status Code    Ethnic Code   Received Date   Sentence Date   Offense Date   Trial County        Court Action
 
-JOHNSON    BILLY                 Living         WHI           12/02/2009      11/23/2009      04/04/2004     Orange              No Action
-                                                                                              03/08/2002     Orange              No Action
+JOHNSON    LUMORD                Living         BLA           04/15/2002      04/08/2002      06/25/1994     Riverside           No Action
+JOHNSON    BILLY                 Living         WHI           12/02/2009      11/23/2009      03/08/2002     Orange              No Action
+                                                                                              04/04/2004     Orange              No Action
 JOHNSON    MILA                  Living         OTH           09/13/2010      09/03/2010      08/09/2006     Los Angeles         No Action
 JONES      ALBERT                Living         BLA           09/25/1996      09/20/1996      12/13/1993     Riverside           No Action
 JONES      BRYAN                 Living         BLA           09/28/1994      09/19/1994      08/15/1985     San Diego           No Action
@@ -484,9 +485,9 @@ JONES      WILLIAM               Living         WHI           02/17/1999      02
 JONES      KIONGOZI              Living         BLA           12/02/1998      11/17/1998      12/06/1996     Los Angeles         No Action
 JONES      MICHAEL               Living         BLA           01/02/1992      12/13/1991      01/21/1989     Riverside           Affirmed
 JONES      RONALD                Living         BLA           06/12/1991      06/04/1991      10/18/1988     Los Angeles         Affirmed
-JONES      STEVEN                Living         BLA           08/26/2009      08/14/2009      06/10/2005     Los Angeles         No Action
+JONES      STEVEN                Living         BLA           08/26/2009      08/14/2009      12/02/2004     Los Angeles         No Action
+                                                                                              06/10/2005     Los Angeles         No Action
                                                                                               11/12/2004     Los Angeles         No Action
-                                                                                              12/02/2004     Los Angeles         No Action
                                                                                               12/12/2004     Los Angeles         No Action
 JONES      GLEN                  Living         WHI           06/22/2010      06/11/2010      05/28/2002     Riverside           No Action
 JURADO     ROBERT                Living         HIS           10/13/1994      10/01/1994      05/15/1991     San Diego           Affirmed
@@ -499,16 +500,16 @@ KENNEDY    JERRY                 Living         WHI           12/21/1993      12
 KENNEDY    JOHN                  Living         BLA           05/06/2009      05/01/2009      11/15/2004     Orange              No Action
 KIMBLE     ERIC                  Living         BLA           04/06/1981      04/06/1981      08/12/1978     Los Angeles         Affirmed
 KIPP       MARTIN                Living         OTH           09/24/1987      09/18/1987      12/30/1983     Orange              Affirmed
-                                                                              02/24/1987      09/16/1983     Los Angeles         Affirmed
 
                                                           Page: 14
-                            CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                                Printed 01/05/2015
+                            CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                                Printed 02/06/2015
                                           DIVISION OF ADULT OPERATIONS
                                                    Death Row Tracking System
                                                Condemned Inmate List (Secure)
 
 LastName      First Name             Status Code    Ethnic Code   Received Date   Sentence Date   Offense Date   Trial County         Court Action
 
+                                                                                  02/24/1987      09/16/1983     Los Angeles          Affirmed
 KIRKPATRICK   WILLIAM                Living         BLA           08/22/1984      08/14/1984      09/17/1983     Los Angeles          Affirmed
 KLING         RANDOLPH               Living         WHI           03/03/2010      02/07/2005      08/10/2003     Ventura              No Action
 KOPATZ        KIM                    Living         WHI           03/27/2001      03/21/2001      04/22/1999     Riverside            No Action
@@ -535,16 +536,16 @@ LEWIS         RAYMOND                Living         BLA           03/13/1991    
 LEWIS         TRAVIS                 Living         BLA           08/11/2010      09/05/2010      04/03/2008     Los Angeles          No Action
 LIGHTSEY      CHRISTOPHER            Living         WHI           08/15/1995      08/15/1995      07/07/1993     Kern                 No Action
 LINDBERG      GUNNER                 Living         WHI           12/22/1997      12/12/1997      01/28/1996     Orange               Affirmed
-LINTON        DANIEL                 Living         WHI           06/21/1999      06/17/1999      11/29/1994     Riverside            No Action
 
                                                               Page: 15
-                          CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 01/05/2015
+                          CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 02/06/2015
                                         DIVISION OF ADULT OPERATIONS
                                                  Death Row Tracking System
                                              Condemned Inmate List (Secure)
 
 LastName     First Name            Status Code    Ethnic Code   Received Date   Sentence Date   Offense Date   Trial County        Court Action
 
+LINTON       DANIEL                Living         WHI           06/21/1999      06/17/1999      11/29/1994     Riverside           No Action
 LIVADITIS    STEVEN                Living         WHI           07/15/1987      07/08/1987      06/23/1986     Los Angeles         Affirmed
 LIVINGSTON   DAVID                 Living         WHI           07/26/2000      07/20/2000      01/03/1999     Los Angeles         No Action
 LIVINGSTON   WAYMON                Living         BLA           05/02/2013      03/13/2013      05/07/2007     Los Angeles         No Action
@@ -571,17 +572,17 @@ MANRIQUEZ    ABELINO               Living         HIS           03/07/1994      
 MANZO        JESSE                 Living         HIS           08/12/2013      08/12/2013      05/02/2008     Riverside           No Action
 MARENTES     DESI                  Living         HIS           01/30/2013      01/25/2013      04/05/2006     Los Angeles         No Action
 MARKS        DELANEY               Living         BLA           06/03/1994      06/03/1994      10/17/1990     Alameda             Affirmed
-MARLOW       JAMES                 Living         WHI           05/11/1992      05/08/1992      11/12/1986     Orange              Affirmed
 
                                                             Page: 16
-                         CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 01/05/2015
+                         CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 02/06/2015
                                        DIVISION OF ADULT OPERATIONS
                                                 Death Row Tracking System
                                             Condemned Inmate List (Secure)
 
 LastName    First Name            Status Code    Ethnic Code   Received Date   Sentence Date   Offense Date   Trial County        Court Action
 
-                                                                               08/31/1989      11/07/1986     San Bernardino      Affirmed
+MARLOW      JAMES                 Living         WHI           05/11/1992      08/31/1989      11/07/1986     San Bernardino      Affirmed
+                                                                               05/08/1992      11/12/1986     Orange              Affirmed
 MARTIN      VALERIE               Living         WHI           04/07/2010      03/26/2010      02/28/2003     Los Angeles         No Action
 MARTINEZ    TOMMY                 Living         HIS           09/29/1998      09/15/1998      11/15/1996     Santa Barbara       No Action
 MARTINEZ    MICHAEL               Living         HIS           08/29/1997      08/29/1997      12/22/1990     Alameda             No Action
@@ -606,17 +607,17 @@ MCKINZIE    KENNETH               Living         BLA           09/02/1999      0
 MCKNIGHT    ANTHONY               Living         BLA           11/17/2008      11/17/2008      09/16/1985     Alameda             No Action
 MCPETERS    RONALD                Living         BLA           05/20/1986      05/07/1986      02/05/1986     Fresno              Affirmed
 MCWHORTER   RICHARD               Living         WHI           03/04/1998      02/26/1998      09/11/1995     Kern                No Action
-MEDINA      TEOFILIO              Living         HIS           03/06/1987      09/07/1989      10/18/1984     Riverside           Affirmed
-                                                                               02/25/1987      10/18/1984     Orange              Affirmed
+MEDINA      TEOFILIO              Living         HIS           03/06/1987      02/25/1987      10/18/1984     Orange              Affirmed
 
                                                            Page: 17
-                                CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 01/05/2015
+                                CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 02/06/2015
                                               DIVISION OF ADULT OPERATIONS
                                                        Death Row Tracking System
                                                    Condemned Inmate List (Secure)
 
 LastName           First Name            Status Code    Ethnic Code   Received Date   Sentence Date   Offense Date   Trial County        Court Action
 
+                                                                                      09/07/1989      10/18/1984     Riverside           Affirmed
 MEJORADO           JOSE                  Living         HIS           09/08/2010      09/01/2010      04/24/2005     Los Angeles         No Action
 MELENDEZ           ANGELO                Living         BLA           08/18/2003      08/18/2003      12/13/2000     San Joaquin         No Action
 MELTON             JAMES                 Living         BLA           03/30/1983      03/18/1983      10/10/1981     Orange              Affirmed
@@ -643,16 +644,16 @@ MILLWEE            DONALD                Living         WHI           03/28/1990
 MINCEY             BRIAN                 Living         WHI           06/20/1985      06/14/1985      12/23/1983     San Bernardino      Affirmed
 MIRACLE            JOSHUA                Living         WHI           02/01/2006      01/24/2006      10/03/2004     Santa Barbara       No Action
 MIRANDA-GUERRERO   VICTOR                Living         HIS           08/11/2003      08/04/2003      11/27/1999     Orange              No Action
-MITCHAM            STEPHAN               Living         BLA           07/06/1984      07/06/1984      04/05/1983     Alameda             Affirmed
 
                                                                   Page: 18
-                          CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 01/05/2015
+                          CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 02/06/2015
                                         DIVISION OF ADULT OPERATIONS
                                                  Death Row Tracking System
                                              Condemned Inmate List (Secure)
 
 LastName     First Name            Status Code    Ethnic Code   Received Date   Sentence Date   Offense Date   Trial County        Court Action
 
+MITCHAM      STEPHAN               Living         BLA           07/06/1984      07/06/1984      04/05/1983     Alameda             Affirmed
 MITCHELL     LOUIS                 Living         BLA           10/13/2006      10/04/2006      08/08/2005     San Bernardino      No Action
 MOLANO       CARL                  Living         HIS           02/29/2008      01/04/2008      06/16/1995     Alameda             No Action
 MONTERROSO   CHRISTIAN             Living         HIS           08/18/1993      08/12/1993      11/21/1991     Orange              Affirmed
@@ -679,16 +680,16 @@ NAVARETTE    MARTIN                Living         HIS           08/21/1991      
 NAVARRO      ANTHONY               Living         HIS           07/21/2008      07/11/2008      10/02/2002     Orange              No Action
 NELSON       BERNARD               Living         BLA           01/19/2000      01/10/2000      04/05/1995     Los Angeles         No Action
 NELSON       SERGIO                Living         BLA           09/18/1995      09/09/1995      10/02/1993     Los Angeles         No Action
-NELSON       TANYA                 Living         OTH           05/03/2010      03/26/2010      04/21/2005     Orange              No Action
 
                                                             Page: 19
-                          CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 01/05/2015
+                          CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 02/06/2015
                                         DIVISION OF ADULT OPERATIONS
                                                  Death Row Tracking System
                                              Condemned Inmate List (Secure)
 
 LastName     First Name            Status Code    Ethnic Code   Received Date   Sentence Date   Offense Date   Trial County        Court Action
 
+NELSON       TANYA                 Living         OTH           05/03/2010      03/26/2010      04/21/2005     Orange              No Action
 NEWBORN      LORENZO               Living         BLA           01/29/1997      01/21/1997      10/31/1993     Los Angeles         No Action
 NG           CHARLES               Living         OTH           06/30/1999      06/30/1999      07/25/1984     Orange              No Action
 NGUYEN       LAM                   Living         OTH           02/03/1999      01/28/1999      02/05/1995     Orange              No Action
@@ -715,16 +716,16 @@ PAYTON       WILLIAM               Living         WHI           03/10/1982      
 PEARSON      MICHAEL               Living         BLA           12/27/1996      12/18/1996      04/25/1995     Contra Costa        Affirmed
 PEARSON      KEVIN                 Living         BLA           12/01/2003      11/19/2003      12/29/1998     Los Angeles         Affirmed
 PENSINGER    BRETT                 Living         WHI           09/28/1982      09/20/1982      08/04/1981     San Bernardino      Affirmed
-PENUELAS     JESUS                 Living         HIS           08/18/2008      08/08/2008      08/15/2003     Riverside           No Action
 
                                                             Page: 20
-                           CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                             Printed 01/05/2015
+                           CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                             Printed 02/06/2015
                                          DIVISION OF ADULT OPERATIONS
                                                   Death Row Tracking System
                                               Condemned Inmate List (Secure)
 
 LastName     First Name             Status Code    Ethnic Code   Received Date   Sentence Date   Offense Date   Trial County      Court Action
 
+PENUELAS     JESUS                  Living         HIS           08/18/2008      08/08/2008      08/15/2003     Riverside         No Action
 PENUNURI     RICHARD                Living         OTH           02/07/2001      02/01/2001      01/15/1998     Los Angeles       No Action
 PEOPLES      LOUIS                  Living         WHI           08/04/2000      08/04/2000      10/29/1997     Alameda           No Action
 PEREZ        JOSEPH                 Living         HIS           01/25/2002      01/25/2002      03/24/1998     Contra Costa      No Action
@@ -733,8 +734,8 @@ PEREZ        JOHN                   Living         HIS           07/22/2013     
 PERRY        CLIFTON                Living         BLA           07/26/1996      07/26/1996      07/09/1995     Kings             Affirmed
 PETERSON     SCOTT                  Living         WHI           03/17/2005      03/16/2005      12/24/2002     San Mateo         No Action
 PHILLIPS     RICHARD                Living         WHI           02/20/1980      02/20/1980      12/07/1977     Madera            Affirmed
-PINEDA       SANTIAGO               Living         HIS           02/28/2007      02/21/2007      04/20/2004     Los Angeles       No Action
-                                                                                                 03/07/2002     Los Angeles       No Action
+PINEDA       SANTIAGO               Living         HIS           02/28/2007      02/21/2007      03/07/2002     Los Angeles       No Action
+                                                                                                 04/20/2004     Los Angeles       No Action
 PINHOLSTER   SCOTT                  Living         WHI           06/13/1984      06/04/1984      01/09/1982     Los Angeles       Affirmed
 PLATA        NOEL                   Living         HIS           08/26/2008      08/15/2008      09/16/2008     Orange            No Action
                                                                                                  11/09/1995     Orange            No Action
@@ -751,16 +752,16 @@ PRINCE       CLEOPHUS               Living         BLA           11/12/1993     
 PROCTOR      WILLIAM                Living         WHI           07/08/1983      06/28/1983      04/21/1982     Sacramento        Affirmed
 RALEY        DAVID                  Living         WHI           05/24/1988      05/17/1988      02/02/1985     Santa Clara       Affirmed
 RAMIREZ      JUAN                   Living         HIS           07/23/2001      07/20/2001      10/14/1997     Kern              No Action
-RAMIREZ      RICHARD                Living         HIS           08/15/1985      08/08/1985      11/21/1983     Orange            Affirmed
 
                                                              Page: 21
-                          CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                              Printed 01/05/2015
+                          CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                              Printed 02/06/2015
                                         DIVISION OF ADULT OPERATIONS
                                                  Death Row Tracking System
                                              Condemned Inmate List (Secure)
 
 LastName     First Name            Status Code    Ethnic Code   Received Date   Sentence Date   Offense Date   Trial County       Court Action
 
+RAMIREZ      RICHARD               Living         HIS           08/15/1985      08/08/1985      11/21/1983     Orange             Affirmed
 RAMIREZ      IRVING                Living         HIS           08/03/2007      08/03/2007      07/25/2005     Alameda            No Action
 RAMOS        WILLIAM               Living         WHI           01/11/1993      01/08/1993      03/07/1991     Contra Costa       Affirmed
 RANGEL       RUBEN                 Living         HIS           06/09/1999      05/27/1999      08/24/1997     Los Angeles        No Action
@@ -787,16 +788,16 @@ RODRIGUEZ    ANTONIO               Living         HIS           09/13/2010      
 ROGERS       DAVID                 Living         WHI           05/04/1988      05/02/1988      02/08/1987     Kern               Affirmed
 ROGERS       GLEN                  Living         WHI           07/16/1999      07/16/1999      09/29/1995     Los Angeles        No Action
 ROGERS       RAMON                 Living         HIS           09/17/1997      06/30/1997      02/17/1996     San Diego          No Action
-ROLDAN       RICARDO               Living         HIS           01/11/1993      12/29/1992      06/03/1990     Los Angeles        Affirmed
 
                                                             Page: 22
-                               CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                             Printed 01/05/2015
+                               CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                             Printed 02/06/2015
                                              DIVISION OF ADULT OPERATIONS
                                                       Death Row Tracking System
                                                   Condemned Inmate List (Secure)
 
 LastName          First Name            Status Code    Ethnic Code   Received Date   Sentence Date   Offense Date   Trial County      Court Action
 
+ROLDAN            RICARDO               Living         HIS           01/11/1993      12/29/1992      06/03/1990     Los Angeles       Affirmed
 ROMERO            GERARDO               Living         HIS           06/01/1998      05/22/1998      10/09/1994     Los Angeles       Affirmed
 ROMERO            ORLANDO               Living         HIS           09/04/1996      08/28/1996      10/12/1992     Riverside         No Action
 RONQUILLO         GABRIEL               Living         HIS           03/21/2012      03/15/2012      06/20/1999     Los Angeles       No Action
@@ -823,16 +824,16 @@ SANDOVAL          RAMON                 Living         HIS           05/19/2003 
 SAPP              JOHN                  Living         WHI           10/22/1991      06/21/1991      08/15/1985     Contra Costa      Affirmed
 SARINANA          CATHY                 Living         WHI           07/09/2009      06/26/2009      12/26/2005     Riverside         No Action
 SARINANA          RAUL                  Living         HIS           07/09/2009      07/02/2009      12/26/2005     Riverside         No Action
-SATELE            WILLIAM               Living         OTH           09/25/2000      09/14/2000      10/29/1998     Los Angeles       No Action
 
                                                                  Page: 23
-                            CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 01/05/2015
+                            CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 02/06/2015
                                           DIVISION OF ADULT OPERATIONS
                                                    Death Row Tracking System
                                                Condemned Inmate List (Secure)
 
 LastName      First Name             Status Code    Ethnic Code   Received Date   Sentence Date   Offense Date   Trial County        Court Action
 
+SATELE        WILLIAM                Living         OTH           09/25/2000      09/14/2000      10/29/1998     Los Angeles         No Action
 SATTIEWHITE   CHRISTOPHER            Living         BLA           04/28/1994      04/25/1994      01/05/1992     Ventura             No Action
 SCHMECK       MARK                   Living         WHI           04/05/1990      04/05/1990      05/30/1986     Alameda             Affirmed
 SCHULTZ       MICHAEL                Living         WHI           04/01/2003      03/26/2003      08/04/1993     Ventura             No Action
@@ -859,16 +860,16 @@ SMITH         GREGORY                Living         WHI           04/09/1992    
 SMITH         DONALD                 Living         BLA           10/30/1995      10/19/1995      08/28/1988     Los Angeles         No Action
 SMITH         ROBERT                 Living         BLA           09/30/1993      09/24/1993      09/30/1991     Contra Costa        Affirmed
 SMITH         GREGORY                Living         BLA           08/24/1992      08/14/1992      06/16/1989     Santa Clara         Affirmed
-SMITH         PAUL                   Living         WHI           12/06/2002      11/05/2002      03/25/1998     Shasta              No Action
 
                                                               Page: 24
-                           CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 01/05/2015
+                           CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 02/06/2015
                                          DIVISION OF ADULT OPERATIONS
                                                   Death Row Tracking System
                                               Condemned Inmate List (Secure)
 
 LastName     First Name             Status Code    Ethnic Code   Received Date   Sentence Date   Offense Date   Trial County        Court Action
 
+SMITH        PAUL                   Living         WHI           12/06/2002      11/05/2002      03/25/1998     Shasta              No Action
 SMITH        CHARLES                Living         BLA           09/06/2013      09/06/2013      06/30/2006     Los Angeles         No Action
 SNOW         PRENTICE               Living         BLA           09/06/1982      08/31/1982      11/03/1980     Los Angeles         Affirmed
 SNYDER       JANEEN                 Living         WHI           09/13/2006      09/07/2006      04/17/2001     Riverside           No Action
@@ -895,16 +896,16 @@ TATE         GREGORY                Living         BLA           03/05/1993     
 TAYLOR       BRANDON                Living         BLA           07/02/1997      11/13/1996      06/23/1995     San Diego           No Action
 TAYLOR       FREDDIE                Living         BLA           06/05/1986      05/30/1986      01/22/1985     Contra Costa        Affirmed
 TAYLOR       KEITH                  Living         BLA           06/13/1996      06/05/1996      09/02/1996     San Bernardino      No Action
-TAYLOR       ROBERT                 Living         BLA           02/04/1992      01/30/1992      07/10/1988     Orange              Affirmed
 
                                                              Page: 25
-                         CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 01/05/2015
+                         CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 02/06/2015
                                        DIVISION OF ADULT OPERATIONS
                                                 Death Row Tracking System
                                             Condemned Inmate List (Secure)
 
 LastName   First Name             Status Code    Ethnic Code   Received Date   Sentence Date   Offense Date   Trial County        Court Action
 
+TAYLOR     ROBERT                 Living         BLA           02/04/1992      01/30/1992      07/10/1988     Orange              Affirmed
 THOMAS     ALEX                   Living         BLA           12/07/2000      11/29/2000      05/16/1997     Sonoma              No Action
 THOMAS     CORRELL                Living         BLA           10/13/1999      10/07/1999      05/18/1996     San Diego           No Action
 THOMAS     KEITH                  Living         BLA           01/16/1998      01/16/1998      12/08/1992     Alameda             Affirmed
@@ -931,16 +932,16 @@ TUILAEPA   PAUL                   Living         OTH           10/05/1987      0
 TULLY      RICHARD                Living         WHI           12/04/1992      12/04/1992      07/24/1986     Alameda             Affirmed
 TURNER     MELVIN                 Living         BLA           08/25/1980      08/20/1980      07/11/1979     Los Angeles         Affirmed
 TURNER     RICHARD                Living         WHI           04/16/1980      10/19/1988      03/08/1979     San Bernardino      Affirmed
-TURNER     CHESTER                Living         BLA           07/25/2007      07/10/2007      03/01/1987     Los Angeles         No Action
 
                                                            Page: 26
-                           CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                             Printed 01/05/2015
+                           CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                             Printed 02/06/2015
                                          DIVISION OF ADULT OPERATIONS
                                                   Death Row Tracking System
                                               Condemned Inmate List (Secure)
 
 LastName      First Name            Status Code    Ethnic Code   Received Date   Sentence Date   Offense Date   Trial County      Court Action
 
+TURNER        CHESTER               Living         BLA           07/25/2007      07/10/2007      03/01/1987     Los Angeles       No Action
 VALDEZ        ALFREDO               Living         HIS           06/01/1992      05/22/1992      04/30/1989     Los Angeles       Affirmed
 VALDEZ        RICHARD               Living         HIS           06/18/1997      06/11/1997      04/22/1995     Los Angeles       No Action
 VALENCIA      ALFREDO               Living         HIS           01/29/1996      01/23/1996      12/15/1993     Orange            Affirmed
@@ -967,16 +968,16 @@ WALLACE       KEONE                 Living         BLA           06/04/1993     
 WALTERS       MICHAEL               Living         HIS           06/25/2013      06/25/2013      10/24/2010     Kings             No Action
 WARD          CARMEN                Living         BLA           01/30/1991      01/28/1991      10/04/1987     Los Angeles       Affirmed
 WATKINS       PAUL                  Living         BLA           05/20/1992      05/11/1992      07/17/1990     Los Angeles       No Action
-WATSON        PAUL                  Living         BLA           12/18/1991      06/27/1991      04/02/1989     Los Angeles       Affirmed
 
                                                              Page: 27
-                           CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                                Printed 01/05/2015
+                           CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                                Printed 02/06/2015
                                          DIVISION OF ADULT OPERATIONS
                                                   Death Row Tracking System
                                               Condemned Inmate List (Secure)
 
 LastName      First Name            Status Code    Ethnic Code   Received Date   Sentence Date   Offense Date   Trial County         Court Action
 
+WATSON        PAUL                  Living         BLA           12/18/1991      06/27/1991      04/02/1989     Los Angeles          Affirmed
 WATTA         BENJAMIN              Living         HIS           01/27/2009      01/20/2009      03/23/1980     Orange               No Action
 WEATHERTON    FRED                  Living         BLA           05/08/2002      04/30/2002      11/01/1998     Riverside            No Action
 WEAVER        LATWON                Living         BLA           06/03/1993      05/28/1993      05/06/1992     San Diego            No Action
@@ -1003,16 +1004,16 @@ WILLIAMS      ROBERTLEE             Living         BLA           09/03/2003     
 WILLIAMS      GEORGE                Living         BLA           03/03/2005      02/24/2005      04/10/1986     San Diego            No Action
 WILLIAMS      MANLING               Living         OTH           01/26/2012      01/29/2012      08/08/2007     Los Angeles          No Action
 WILSON        ANDRE                 Living         BLA           05/11/1998      05/01/1998      07/25/1996     Los Angeles          Affirmed
-WILSON        BYRON                 Living         BLA           04/17/2000      04/07/2000      01/25/1998     Los Angeles          No Action
 
                                                              Page: 28
-                                   CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 01/05/2015
+                                   CALIFORNIA DEPARTMENT OF CORRECTIONS AND REHABILITATION                                               Printed 02/06/2015
                                                  DIVISION OF ADULT OPERATIONS
                                                           Death Row Tracking System
                                                       Condemned Inmate List (Secure)
 
 LastName              First Name            Status Code    Ethnic Code   Received Date   Sentence Date   Offense Date   Trial County        Court Action
 
+WILSON                BYRON                 Living         BLA           04/17/2000      04/07/2000      01/25/1998     Los Angeles         No Action
 WILSON                LESTER                Living         BLA           07/05/2000      06/29/2000      06/08/1997     Riverside           No Action
 WILSON                ROBERT                Living         WHI           04/18/1994      04/08/1994      09/05/1984     Los Angeles         Affirmed
 WILSON                JAVANCE               Living         BLA           09/05/1993      08/27/2003      02/21/2000     San Bernardino      No Action
@@ -1032,7 +1033,7 @@ ZAPIEN                CONRAD                Living         HIS           04/14/1
 ZARAGOZA              LOUIS                 Living         HIS           05/24/2001      05/24/2001      06/10/1999     San Joaquin         No Action
 
 
-Total Record/s Printed = 749
+Total Record/s Printed = 750
 
 
 

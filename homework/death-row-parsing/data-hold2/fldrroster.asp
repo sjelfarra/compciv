@@ -84,7 +84,7 @@ information database and will take a few minutes to build.
 <tr><td align="Left"><b>Total White Females </b></td><td align="Right">1</td></tr>
 <tr BGCOLOR="#f0f8ff"><td align="Left"><b>Total Black Females </b></td><td align="Right">2</td></tr>
 <tr><td align="Left"><b>Total Other Females </b></td><td align="Right">2</td></tr>
-<tr BGCOLOR="#f0f8ff"><td align="Left"><b>2/26/2015 Total </b></td><td align="Right">393</td></tr>
+<tr BGCOLOR="#f0f8ff"><td align="Left"><b>2/25/2015 Total </b></td><td align="Right">393</td></tr>
 </table>
 
 <p>
@@ -402,9 +402,9 @@ The following table provides a complete roster of all inmates on Florida's Death
 
 <TR bgcolor=#f0f8ff><td>Windom, Curtis</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=368527">368527</a></td><td>BM</td><td>11/23/1992</td><td>1st dg mur/premed. or att.</td><td>02/07/1992</td><td>11/10/1992</td><td>01/29/1966</td><td>Orange</td></tr>
 
-<TR bgcolor=#ffffff><td>Finney, Charles</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=516349">516349</a></td><td>BM</td><td>12/02/1992</td><td>1st dg mur/premed. or att.</td><td>01/16/1991</td><td>11/10/1992</td><td>01/05/1954</td><td>Hillsborough</td></tr>
+<TR bgcolor=#ffffff><td>Fennie, Alfred</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=490989">490989</a></td><td>BM</td><td>12/02/1992</td><td>1st deg mur,com.of felony</td><td>09/08/1991</td><td>12/01/1992</td><td>12/28/1961</td><td>Hernando</td></tr>
 
-<TR bgcolor=#f0f8ff><td>Fennie, Alfred</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=490989">490989</a></td><td>BM</td><td>12/02/1992</td><td>1st deg mur,com.of felony</td><td>09/08/1991</td><td>12/01/1992</td><td>12/28/1961</td><td>Hernando</td></tr>
+<TR bgcolor=#f0f8ff><td>Finney, Charles</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=516349">516349</a></td><td>BM</td><td>12/02/1992</td><td>1st dg mur/premed. or att.</td><td>01/16/1991</td><td>11/10/1992</td><td>01/05/1954</td><td>Hillsborough</td></tr>
 
 <TR bgcolor=#ffffff><td>Farina, Anthony</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=684135">684135</a></td><td>WM</td><td>12/16/1992</td><td>1st dg mur/premed. or att.</td><td>05/09/1992</td><td>12/16/1992</td><td>11/20/1973</td><td>Volusia</td></tr>
 
@@ -470,15 +470,15 @@ The following table provides a complete roster of all inmates on Florida's Death
 
 <TR bgcolor=#ffffff><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>08/26/1994</td><td>1st dg mur/premed. or att.</td><td>11/29/1992</td><td>07/25/1994</td><td>11/03/1973</td><td>Orange</td></tr>
 
-<TR bgcolor=#f0f8ff><td>Franqui, Leonardo</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=445903">445903</a></td><td>WM</td><td>10/18/1994</td><td>1st dg mur/premed. or att.</td><td>12/06/1991</td><td>11/24/1993</td><td>09/26/1970</td><td>Miami-dade</td></tr>
-
-<TR bgcolor=#f0f8ff><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/18/1994</td><td>1st dg mur/premed. or att.</td><td>01/03/1992</td><td>10/11/1994</td><td>09/26/1970</td><td>Miami-dade</td></tr>
-
-<TR bgcolor=#ffffff><td>San martin, Pablo</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=445904">445904</a></td><td>WM</td><td>10/18/1994</td><td>1st dg mur/premed. or att.</td><td>12/06/1991</td><td>11/24/1993</td><td>07/23/1967</td><td>Miami-dade</td></tr>
-
-<TR bgcolor=#ffffff><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/18/1994</td><td>1st dg mur/premed. or att.</td><td>01/03/1992</td><td>10/11/1994</td><td>07/23/1967</td><td>Miami-dade</td></tr>
-
 <TR bgcolor=#f0f8ff><td>Gonzalez, Ricardo</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=123763">123763</a></td><td>HM</td><td>10/18/1994</td><td>1st dg mur/premed. or att.</td><td>01/03/1992</td><td>10/11/1994</td><td>01/20/1970</td><td>Miami-dade</td></tr>
+
+<TR bgcolor=#ffffff><td>Franqui, Leonardo</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=445903">445903</a></td><td>WM</td><td>10/18/1994</td><td>1st dg mur/premed. or att.</td><td>12/06/1991</td><td>11/24/1993</td><td>09/26/1970</td><td>Miami-dade</td></tr>
+
+<TR bgcolor=#ffffff><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/18/1994</td><td>1st dg mur/premed. or att.</td><td>01/03/1992</td><td>10/11/1994</td><td>09/26/1970</td><td>Miami-dade</td></tr>
+
+<TR bgcolor=#f0f8ff><td>San martin, Pablo</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=445904">445904</a></td><td>WM</td><td>10/18/1994</td><td>1st dg mur/premed. or att.</td><td>12/06/1991</td><td>11/24/1993</td><td>07/23/1967</td><td>Miami-dade</td></tr>
+
+<TR bgcolor=#f0f8ff><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/18/1994</td><td>1st dg mur/premed. or att.</td><td>01/03/1992</td><td>10/11/1994</td><td>07/23/1967</td><td>Miami-dade</td></tr>
 
 <TR bgcolor=#ffffff><td>Hoskins, Johnny</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=962032">962032</a></td><td>BM</td><td>11/04/1994</td><td>1st dg mur/premed. or att.</td><td>10/17/1992</td><td>11/04/1994</td><td>10/31/1963</td><td>Brevard</td></tr>
 
@@ -506,9 +506,9 @@ The following table provides a complete roster of all inmates on Florida's Death
 
 <TR bgcolor=#f0f8ff><td>Whitfield, Ernest</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=764970">764970</a></td><td>BM</td><td>10/24/1995</td><td>1st dg mur/premed. or att.</td><td>06/19/1995</td><td>10/20/1995</td><td>04/09/1967</td><td>Sarasota</td></tr>
 
-<TR bgcolor=#ffffff><td>Mcdonald, Meryl</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=180399">180399</a></td><td>BM</td><td>11/17/1995</td><td>1st dg mur/premed. or att.</td><td>01/25/1994</td><td>11/16/1995</td><td>08/15/1946</td><td>Pinellas</td></tr>
+<TR bgcolor=#ffffff><td>Gordon, Robert</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=123911">123911</a></td><td>BM</td><td>11/17/1995</td><td>1st dg mur/premed. or att.</td><td>01/25/1994</td><td>11/16/1995</td><td>11/25/1962</td><td>Pinellas</td></tr>
 
-<TR bgcolor=#f0f8ff><td>Gordon, Robert</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=123911">123911</a></td><td>BM</td><td>11/17/1995</td><td>1st dg mur/premed. or att.</td><td>01/25/1994</td><td>11/16/1995</td><td>11/25/1962</td><td>Pinellas</td></tr>
+<TR bgcolor=#f0f8ff><td>Mcdonald, Meryl</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=180399">180399</a></td><td>BM</td><td>11/17/1995</td><td>1st dg mur/premed. or att.</td><td>01/25/1994</td><td>11/16/1995</td><td>08/15/1946</td><td>Pinellas</td></tr>
 
 <TR bgcolor=#ffffff><td>Knight, Ronald</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=610979">610979</a></td><td>WM</td><td>12/21/1995</td><td>1st deg mur,com.of felony</td><td>07/08/1993</td><td>05/29/1998</td><td>06/26/1968</td><td>Palm beach</td></tr>
 
@@ -716,15 +716,15 @@ The following table provides a complete roster of all inmates on Florida's Death
 
 <TR bgcolor=#f0f8ff><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>06/10/2002</td><td>1st dg mur/premed. or att.</td><td>01/03/1999</td><td>05/28/2002</td><td>01/15/1963</td><td>Hillsborough</td></tr>
 
-<TR bgcolor=#ffffff><td>Wright, Tavares</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=H10118">H10118</a></td><td>BM</td><td>06/14/2002</td><td>1st dg mur/premed. or att.</td><td>04/21/2000</td><td>10/12/2005</td><td>02/07/1981</td><td>Polk</td></tr>
-
-<TR bgcolor=#ffffff><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>06/14/2002</td><td>1st dg mur/premed. or att.</td><td>04/21/2000</td><td>10/12/2005</td><td>02/07/1981</td><td>Polk</td></tr>
+<TR bgcolor=#ffffff><td>Douglas, Luther</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=125172">125172</a></td><td>BM</td><td>06/14/2002</td><td>1st dg mur/premed. or att.</td><td>12/25/1999</td><td>06/14/2002</td><td>07/04/1974</td><td>Duval</td></tr>
 
 <TR bgcolor=#f0f8ff><td>Snelgrove, David</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=442564">442564</a></td><td>WM</td><td>06/14/2002</td><td>1st dg mur/premed. or att.</td><td>06/23/2000</td><td>06/13/2002</td><td>12/24/1972</td><td>Flagler</td></tr>
 
 <TR bgcolor=#f0f8ff><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>06/14/2002</td><td>1st dg mur/premed. or att.</td><td>06/23/2000</td><td>06/13/2002</td><td>12/24/1972</td><td>Flagler</td></tr>
 
-<TR bgcolor=#ffffff><td>Douglas, Luther</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=125172">125172</a></td><td>BM</td><td>06/14/2002</td><td>1st dg mur/premed. or att.</td><td>12/25/1999</td><td>06/14/2002</td><td>07/04/1974</td><td>Duval</td></tr>
+<TR bgcolor=#ffffff><td>Wright, Tavares</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=H10118">H10118</a></td><td>BM</td><td>06/14/2002</td><td>1st dg mur/premed. or att.</td><td>04/21/2000</td><td>10/12/2005</td><td>02/07/1981</td><td>Polk</td></tr>
+
+<TR bgcolor=#ffffff><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>06/14/2002</td><td>1st dg mur/premed. or att.</td><td>04/21/2000</td><td>10/12/2005</td><td>02/07/1981</td><td>Polk</td></tr>
 
 <TR bgcolor=#f0f8ff><td>Boyd, Lucious</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=699893">699893</a></td><td>BM</td><td>06/25/2002</td><td>1st dg mur/premed. or att.</td><td>12/05/1998</td><td>06/21/2002</td><td>03/22/1959</td><td>Broward</td></tr>
 
@@ -828,13 +828,13 @@ The following table provides a complete roster of all inmates on Florida's Death
 
 <TR bgcolor=#f0f8ff><td>Hernandez, Michael</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=P31867">P31867</a></td><td>WM</td><td>03/23/2007</td><td>1st dg mur/premed. or att.</td><td>11/18/2004</td><td>03/22/2007</td><td>01/11/1981</td><td>Santa rosa</td></tr>
 
-<TR bgcolor=#ffffff><td>Knight, Richard</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=L36345">L36345</a></td><td>BM</td><td>03/30/2007</td><td>1st dg mur/premed. or att.</td><td>06/28/2000</td><td>03/28/2007</td><td>07/06/1978</td><td>Broward</td></tr>
+<TR bgcolor=#ffffff><td>Simpson, Jason</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=301898">301898</a></td><td>WM</td><td>03/30/2007</td><td>1st dg mur/premed. or att.</td><td>07/15/1999</td><td>03/29/2007</td><td>05/25/1973</td><td>Duval</td></tr>
 
-<TR bgcolor=#ffffff><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>03/30/2007</td><td>1st dg mur/premed. or att.</td><td>06/28/2000</td><td>03/28/2007</td><td>07/06/1978</td><td>Broward</td></tr>
+<TR bgcolor=#ffffff><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>03/30/2007</td><td>1st dg mur/premed. or att.</td><td>07/15/1999</td><td>03/29/2007</td><td>05/25/1973</td><td>Duval</td></tr>
 
-<TR bgcolor=#f0f8ff><td>Simpson, Jason</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=301898">301898</a></td><td>WM</td><td>03/30/2007</td><td>1st dg mur/premed. or att.</td><td>07/15/1999</td><td>03/29/2007</td><td>05/25/1973</td><td>Duval</td></tr>
+<TR bgcolor=#f0f8ff><td>Knight, Richard</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=L36345">L36345</a></td><td>BM</td><td>03/30/2007</td><td>1st dg mur/premed. or att.</td><td>06/28/2000</td><td>03/28/2007</td><td>07/06/1978</td><td>Broward</td></tr>
 
-<TR bgcolor=#f0f8ff><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>03/30/2007</td><td>1st dg mur/premed. or att.</td><td>07/15/1999</td><td>03/29/2007</td><td>05/25/1973</td><td>Duval</td></tr>
+<TR bgcolor=#f0f8ff><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>03/30/2007</td><td>1st dg mur/premed. or att.</td><td>06/28/2000</td><td>03/28/2007</td><td>07/06/1978</td><td>Broward</td></tr>
 
 <TR bgcolor=#ffffff><td>Hayward, Steven</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=106576">106576</a></td><td>BM</td><td>06/04/2007</td><td>1st dg mur/premed. or att.</td><td>02/01/2005</td><td>06/01/2007</td><td>01/17/1969</td><td>St. lucie</td></tr>
 
@@ -928,17 +928,17 @@ The following table provides a complete roster of all inmates on Florida's Death
 
 <TR bgcolor=#ffffff><td>Hall, Donte</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=X45131">X45131</a></td><td>BM</td><td>12/10/2009</td><td>1st deg mur,com.of felony</td><td>09/09/2006</td><td>12/09/2009</td><td>08/01/1984</td><td>Lake</td></tr>
 
-<TR bgcolor=#f0f8ff><td>King, Michael</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=132254">132254</a></td><td>WM</td><td>12/14/2009</td><td>1st dg mur/premed. or att.</td><td>01/17/2008</td><td>12/04/2009</td><td>05/04/1971</td><td>Sarasota</td></tr>
+<TR bgcolor=#f0f8ff><td>Peterson, Robert</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=287224">287224</a></td><td>WM</td><td>12/14/2009</td><td>1st dg mur/premed. or att.</td><td>08/08/2005</td><td>12/10/2009</td><td>01/02/1964</td><td>Duval</td></tr>
 
-<TR bgcolor=#ffffff><td>Peterson, Robert</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=287224">287224</a></td><td>WM</td><td>12/14/2009</td><td>1st dg mur/premed. or att.</td><td>08/08/2005</td><td>12/10/2009</td><td>01/02/1964</td><td>Duval</td></tr>
+<TR bgcolor=#ffffff><td>King, Michael</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=132254">132254</a></td><td>WM</td><td>12/14/2009</td><td>1st dg mur/premed. or att.</td><td>01/17/2008</td><td>12/04/2009</td><td>05/04/1971</td><td>Sarasota</td></tr>
 
 <TR bgcolor=#f0f8ff><td>Caylor, Matthew</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=Q23494">Q23494</a></td><td>WM</td><td>12/15/2009</td><td>1st dg mur/premed. or att.</td><td>07/08/2008</td><td>12/11/2009</td><td>05/25/1975</td><td>Bay</td></tr>
 
 <TR bgcolor=#ffffff><td>Heyne, Justin</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=X23653">X23653</a></td><td>WM</td><td>12/18/2009</td><td>1st dg mur/premed. or att.</td><td>03/30/2006</td><td>12/17/2009</td><td>06/26/1981</td><td>Brevard</td></tr>
 
-<TR bgcolor=#f0f8ff><td>Kocaker, Genghis</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=479701">479701</a></td><td>WM</td><td>02/02/2010</td><td>1st dg mur/premed. or att.</td><td>08/31/2004</td><td>12/18/2009</td><td>08/04/1963</td><td>Pinellas</td></tr>
+<TR bgcolor=#f0f8ff><td>Ellerbee, Terry</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=X50469">X50469</a></td><td>WM</td><td>02/02/2010</td><td>1st dg mur/premed. or att.</td><td>09/20/2006</td><td>01/29/2010</td><td>01/18/1985</td><td>Okeechobee</td></tr>
 
-<TR bgcolor=#ffffff><td>Ellerbee, Terry</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=X50469">X50469</a></td><td>WM</td><td>02/02/2010</td><td>1st dg mur/premed. or att.</td><td>09/20/2006</td><td>01/29/2010</td><td>01/18/1985</td><td>Okeechobee</td></tr>
+<TR bgcolor=#ffffff><td>Kocaker, Genghis</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=479701">479701</a></td><td>WM</td><td>02/02/2010</td><td>1st dg mur/premed. or att.</td><td>08/31/2004</td><td>12/18/2009</td><td>08/04/1963</td><td>Pinellas</td></tr>
 
 <TR bgcolor=#f0f8ff><td>Hampton, John</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=132474">132474</a></td><td>BM</td><td>02/23/2010</td><td>1st dg mur/premed. or att.</td><td>06/10/2007</td><td>02/19/2010</td><td>05/14/1974</td><td>Pinellas</td></tr>
 
@@ -1006,9 +1006,9 @@ The following table provides a complete roster of all inmates on Florida's Death
 
 <TR bgcolor=#ffffff><td>Herard, James</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=L88290">L88290</a></td><td>BM</td><td>09/08/2011</td><td>1st dg mur/premed. or att.</td><td>11/14/2008</td><td>01/23/2015</td><td>08/12/1989</td><td>Broward</td></tr>
 
-<TR bgcolor=#f0f8ff><td>King, Cecil</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=J25731">J25731</a></td><td>BM</td><td>10/31/2011</td><td>1st deg mur,com.of felony</td><td>12/28/2009</td><td>10/27/2011</td><td>12/16/1969</td><td>Duval</td></tr>
+<TR bgcolor=#f0f8ff><td>Brown, Thomas</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=D30662">D30662</a></td><td>BM</td><td>10/31/2011</td><td>1st dg mur/premed. or att.</td><td>06/18/2009</td><td>10/28/2011</td><td>03/01/1982</td><td>Duval</td></tr>
 
-<TR bgcolor=#ffffff><td>Brown, Thomas</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=D30662">D30662</a></td><td>BM</td><td>10/31/2011</td><td>1st dg mur/premed. or att.</td><td>06/18/2009</td><td>10/28/2011</td><td>03/01/1982</td><td>Duval</td></tr>
+<TR bgcolor=#ffffff><td>King, Cecil</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=J25731">J25731</a></td><td>BM</td><td>10/31/2011</td><td>1st deg mur,com.of felony</td><td>12/28/2009</td><td>10/27/2011</td><td>12/16/1969</td><td>Duval</td></tr>
 
 <TR bgcolor=#f0f8ff><td>Campbell, John</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=D35843">D35843</a></td><td>WM</td><td>12/30/2011</td><td>1st dg mur/premed. or att.</td><td>08/10/2010</td><td>03/19/2013</td><td>11/03/1973</td><td>Citrus</td></tr>
 
@@ -1018,13 +1018,13 @@ The following table provides a complete roster of all inmates on Florida's Death
 
 <TR bgcolor=#f0f8ff><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>03/15/2012</td><td>1st dg mur/premed. or att.</td><td>03/15/2000</td><td>02/28/2012</td><td>12/17/1975</td><td>Sumter</td></tr>
 
-<TR bgcolor=#ffffff><td>Kalisz, John</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=U38267">U38267</a></td><td>WM</td><td>03/19/2012</td><td>1st dg mur/premed. or att.</td><td>01/14/2010</td><td>03/06/2012</td><td>10/11/1954</td><td>Hernando</td></tr>
+<TR bgcolor=#ffffff><td>Larkin, Gregory</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=J46401">J46401</a></td><td>WM</td><td>03/19/2012</td><td>1st dg mur/premed. or att.</td><td>04/11/2009</td><td>03/15/2012</td><td>08/21/1973</td><td>Nassau</td></tr>
 
-<TR bgcolor=#ffffff><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>03/19/2012</td><td>1st dg mur/premed. or att.</td><td>01/14/2010</td><td>03/06/2012</td><td>10/11/1954</td><td>Hernando</td></tr>
+<TR bgcolor=#ffffff><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>03/19/2012</td><td>1st dg mur/premed. or att.</td><td>04/11/2009</td><td>03/15/2012</td><td>08/21/1973</td><td>Nassau</td></tr>
 
-<TR bgcolor=#f0f8ff><td>Larkin, Gregory</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=J46401">J46401</a></td><td>WM</td><td>03/19/2012</td><td>1st dg mur/premed. or att.</td><td>04/11/2009</td><td>03/15/2012</td><td>08/21/1973</td><td>Nassau</td></tr>
+<TR bgcolor=#f0f8ff><td>Kalisz, John</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=U38267">U38267</a></td><td>WM</td><td>03/19/2012</td><td>1st dg mur/premed. or att.</td><td>01/14/2010</td><td>03/06/2012</td><td>10/11/1954</td><td>Hernando</td></tr>
 
-<TR bgcolor=#f0f8ff><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>03/19/2012</td><td>1st dg mur/premed. or att.</td><td>04/11/2009</td><td>03/15/2012</td><td>08/21/1973</td><td>Nassau</td></tr>
+<TR bgcolor=#f0f8ff><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>03/19/2012</td><td>1st dg mur/premed. or att.</td><td>01/14/2010</td><td>03/06/2012</td><td>10/11/1954</td><td>Hernando</td></tr>
 
 <TR bgcolor=#ffffff><td>Sparre, David</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=J46231">J46231</a></td><td>WM</td><td>04/02/2012</td><td>1st deg mur,com.of felony</td><td>07/08/2010</td><td>03/30/2012</td><td>07/07/1991</td><td>Duval</td></tr>
 
@@ -1084,9 +1084,9 @@ The following table provides a complete roster of all inmates on Florida's Death
 
 <TR bgcolor=#ffffff><td>Cozzie, Steven</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=135997">135997</a></td><td>WM</td><td>10/18/2013</td><td>1st dg mur/premed. or att.</td><td>06/16/2011</td><td>10/17/2013</td><td>06/26/1989</td><td>Walton</td></tr>
 
-<TR bgcolor=#f0f8ff><td>Bargo, Michael</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=U41472">U41472</a></td><td>WM</td><td>12/16/2013</td><td>1st dg mur/premed. or att.</td><td>04/17/2011</td><td>12/13/2013</td><td>04/29/1992</td><td>Marion</td></tr>
+<TR bgcolor=#f0f8ff><td>Sexton, John</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=U21898">U21898</a></td><td>WM</td><td>12/16/2013</td><td>1st dg mur/premed. or att.</td><td>09/22/2010</td><td>12/13/2013</td><td>06/25/1963</td><td>Pasco</td></tr>
 
-<TR bgcolor=#ffffff><td>Sexton, John</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=U21898">U21898</a></td><td>WM</td><td>12/16/2013</td><td>1st dg mur/premed. or att.</td><td>09/22/2010</td><td>12/13/2013</td><td>06/25/1963</td><td>Pasco</td></tr>
+<TR bgcolor=#ffffff><td>Bargo, Michael</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=U41472">U41472</a></td><td>WM</td><td>12/16/2013</td><td>1st dg mur/premed. or att.</td><td>04/17/2011</td><td>12/13/2013</td><td>04/29/1992</td><td>Marion</td></tr>
 
 <TR bgcolor=#f0f8ff><td>Williams, Donald</td><td><a href="../ActiveInmates/list.asp?DataAction=GetInmate&DCNumber=U13479">U13479</a></td><td>WM</td><td>03/03/2014</td><td>1st dg mur/premed. or att.</td><td>10/18/2010</td><td>02/28/2014</td><td>07/20/1960</td><td>Lake</td></tr>
 

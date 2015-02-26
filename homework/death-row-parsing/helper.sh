@@ -1,5 +1,5 @@
-mkdir data-hold
-cd data-hold
+mkdir data-hold2
+cd data-hold2
 curl -s http://www.tdcj.state.tx.us/death_row/dr_offenders_on_dr.html > txdr.html
 curl -s http://www.tdcj.state.tx.us/death_row/dr_list_all_dr_1923-1973.html > txdrold.html
 curl -s curl http://www.dc.state.fl.us/activeinmates/deathrowroster.asp > fldrroster.asp
