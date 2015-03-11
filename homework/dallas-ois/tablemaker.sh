@@ -1,5 +1,3 @@
-#!/bin/bash
-# tablemaker.sh
 if [[ -s tables/incidents.psv ]]; then
   rm -f tables/incidents.psv
 fi
@@ -53,7 +51,7 @@ for case_id in ${cases[*]}; do
 
   echo "$case_id|$date|$location|$suspect_status|$suspect_weapon|$suspects|$officers|$grand_jury|$latitude|$longitude|$narrative" >> tables/incidents.psv 
 
-  # figure out if suspect killed
+
   echo $suspect_status | grep -q "DECEASED"
   if [[ $? -eq 0 ]]; then
     suspect_killed="TRUE"
@@ -66,9 +64,9 @@ for case_id in ${cases[*]}; do
   (( slashes_found-- ))
 
   for i in `seq 0 $slashes_found`; do
-    # first=Deborst, Paul W
+    
     first=`echo $officers | cut -d "/" -f $(($i + 1))`
-    # second=M Bacon, Mark W
+    
     second=`echo $officers | cut -d "/" -f $(($i + 2))`
     last_name=`echo $first| cut -d "," -f 1 | sed 's/^[A-Z]\{1\} //'`
     first_name=`echo $first| cut -d "," -f 2 | sed 's/ [A-Z]\{1\}$//'`
@@ -85,9 +83,9 @@ for case_id in ${cases[*]}; do
   (( slashes_found-- ))
 
   for i in `seq 0 $slashes_found`; do
-    # first=Deborst, Paul W
+    
     first=`echo $officers | cut -d "/" -f $(($i + 1))`
-    # second=M Bacon, Mark W
+    
     second=`echo $officers | cut -d "/" -f $(($i + 2))`
     last_name=`echo $first| cut -d "," -f 1 | sed 's/^[A-Z]\{1\} //'`
     first_name=`echo $first| cut -d "," -f 2 | sed 's/ [A-Z]\{1\}$//'`
@@ -101,5 +99,3 @@ for case_id in ${cases[*]}; do
   
 
 done
-
-
